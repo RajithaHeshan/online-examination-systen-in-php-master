@@ -1,1 +1,14 @@
-# online-examination-systen-in-php-master
+Download zip file and unzip file on your local server
+
+put this file inside "c:/xampp/htdocs"
+
+Database configuration open php myadmin
+
+create database name project, import database
+
+open your browser put inside "http:// localhost/online exsamination system/"
+
+ADMIN LOGIN DETAILS
+
+login id = admin@admin.com
+password = admin
